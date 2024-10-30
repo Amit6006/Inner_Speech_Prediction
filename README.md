@@ -1,8 +1,5 @@
 # Inner_Speech_Prediction
-The project aimed to classify raw EEG signals into categories. It includes real-time EEG signal processing, data cleaning using techniques like ICA, and building DL models to classify inner thoughts into their class.
-
-**Project Overview**
-This project leverages real-time EEG data from human subjects, processed to clean and analyze neural signals, and then applied deep learning techniques to convert these signals into spoken language. Using a combination of advanced filtering techniques and neural networks, the system captures the neural patterns related to inner speech and translates them into speech output.
+The project aimed to classify raw EEG signals into categories. It includes real-time EEG signal processing, data cleaning using techniques like ICA, and building DL models to classify inner thoughts into their class. Real-time EEG data from human subjects is, processed to clean and analyze neural signals, and then applied deep learning techniques to convert these signals into spoken language. Using a combination of advanced filtering techniques and neural networks, the system captures the neural patterns related to inner speech and translates them into speech output(classes).
 
 # Data Collection
   Subjects: 10 subjects from different age groups.
