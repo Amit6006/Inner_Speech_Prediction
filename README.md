@@ -14,4 +14,4 @@ The project aimed to classify raw EEG signals into categories. It includes real-
 # Model Development
   Model Used: LSTM for classifying EEG signals into speech.
   Accuracy: Achieved approximately 70% accuracy after fine-tuning.
-  Outcome: Good results considering available resources and equipment.
+  Outcome: Good results considering available resources and equipment available.
